@@ -1,0 +1,2 @@
+# Tcl Division by Zero Bug
+This repository demonstrates a common error in Tcl: division by zero. The `badproc` procedure doesn't handle the case where the first argument is zero, leading to an error.  The solution provides a more robust version.
